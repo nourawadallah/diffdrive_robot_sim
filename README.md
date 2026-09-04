@@ -2,7 +2,7 @@
 
 > Work in progress — side project alongside Thanawya Amma. Pushing progress as I go, so expect incomplete pieces for a while. Full README goes up once this is done.
 
-## Core components:
+## Core components
 
 - differential drive kinematics
 - collision detection
